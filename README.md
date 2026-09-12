@@ -3,10 +3,10 @@
 An all-in-one platform built for tech communities, developer networks, and local clubs to streamline event management. This system provides instant event creation, QR-code based attendance tracking, and automated certificate email generation.
 
 ## 🏛️ Architecture Stack
-*   **Frontend:** Next.js 14, React, Tailwind CSS
-*   **Backend Engine:** Python, Flask
-*   **Database:** Relational schema (MySQL) for event and attendee management
-*   **Features:** QR Code Generation, Automated Emailing (SMTP)
+*   **Frontend -** Next.js 14, React, Tailwind CSS
+*   **Backend Engine -** Python, Flask
+*   **Database -** Relational schema (MySQL) for event and attendee management
+*   **Features -** QR Code Generation, Automated Emailing (SMTP)
 
 ## 📂 Repository Structure
 ```text
